@@ -24,10 +24,10 @@ plugins:
 domain: biorob-2022-workshop-upper-limb.github.io
 url: 'https://biorob-2022-workshop-upper-limb.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Closing the Loop on Upper-Limb Assistive Device Design, Sensing, Control, & Clinical Practice'
+description: 'Welcome to the BioRob 2022 workshop on Closing the Loop on Upper-Limb Assistive Device Design, Sensing, Control, & Clinical Practice.'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: '/assets/images/logo.png'
 
 # Pagination
 paginate: 5
@@ -39,8 +39,16 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Call for Contributions
+  url: /cfp/
+- title: Schedule
+  url: /schedule/
+- title: Speakers & Organizers
+  url: /speakorg/
+- title: Contact
+  url: /contact/
+- title: Sponsors
+  url: /sponsors/
 
 # Footer nav
 navigation_footer:

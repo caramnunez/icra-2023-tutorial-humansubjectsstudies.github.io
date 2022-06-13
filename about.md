@@ -1,5 +1,13 @@
 ---
-title: About this website
+title: About this workshop
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+The aim of this workshop is to facilitate discussion across disciplinary boundaries of both state-of-the-art and emerging technologies for upper-limb device development, giving attendees not only a strong sense of the current state of the upper-limb field and its ongoing challenges, but also a pool of potential collaborators (ranging from early-stage engineering PhD students to established medical professionals). While conference sessions often focus on the final device design and performance, our session will focus on the process and key considerations that are essential for the development of effective devices but often minimally discussed in manuscripts and presentations. By combining engaging speaker presentations, an open panel discussion, and a poster and demonstration session of ongoing work, we aim to promote creative and exciting advances in this research area and conversation across disciplines to assist in the translation to clinical environments, as well as facilitate the development of new partnerships.
+
+To enable both high-level discussion of outstanding challenges in the upper-limb assistive technology space (and how to effectively address them) and specific discussion of available tools and specific problems, we propose a workshop in two parts. In the first, we will host speakers with a strong track record of building effective assistance solutions across engineering and application domains, who will discuss not only their specific technical solutions, but what made those endeavors successful, in both individual talks and a panel discussion. In the second, we will host presenters who are either developing specific tools for use in assistive devices (e.g., novel sensing or control modalities) or have specific clinical needs that can be addressed by such tooling, who will present poster presentations and/or hardware demos in an open networking session designed to facilitate novel discussions and partnerships.
+
+In summary, this workshop aims to:
+- promote interdisciplinary conversation between communities developing and using upper-limb assistive device technology;
+- present examples of successful research endeavors and partnerships between various engineering and clinical disciplines;
+- facilitate discussion on major challenges in developing devices that can be translated to use in a clinical or rehabilitative setting and possible solutions on how to overcome these challenges; and
+- provide a platform for talented researchers, especially early-stage researchers, to present their ideas and ongoing work, receive actionable and constructive feedback from the diverse audience, and build collaborations across disciplines.
