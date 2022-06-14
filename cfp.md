@@ -6,7 +6,7 @@ In addition to the invited talks listed on the [program schedule](../schedule), 
 
 ## Submission Link
 
-Whitepapers (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via this form. (Link available soon!)
+Whitepapers (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via [this form](https://forms.gle/CvcxT9WST9bdDbU18).
 
 ## Deadlines
 
