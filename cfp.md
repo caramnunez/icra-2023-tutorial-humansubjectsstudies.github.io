@@ -12,9 +12,9 @@ Whitepapers (alongside attestations of planned conference travel to enable us to
 
 Contributions will be accepted on a **rolling basis**. To enable potential contributors to plan travel to and registration for the BioRob 2022 conference, we guarantee the following response times:
 
-Submit by **June 27, 2022** to guarantee a response by **June 29, 2022** (to accommodate early registration deadline June 30, 2022).
+Submit by **June 27, 2022** to guarantee a response by **June 29, 2022** (to accommodate the early registration deadline of June 30, 2022).
 
-Submit by **July 28, 2022** to guarantee a response by **August 4, 2022** (to accommodate regular registration deadline August 5, 2022).
+Submit by **July 28, 2022** to guarantee a response by **August 4, 2022** (to accommodate the regular registration deadline of August 5, 2022).
 
 The final deadline for all contributions is **11:59p, July 28, 2022** (anywhere in the world).
 
