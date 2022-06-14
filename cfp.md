@@ -16,7 +16,7 @@ Submit by **June 27, 2022** to guarantee a response by **June 29, 2022** (to acc
 
 Submit by **July 28, 2022** to guarantee a response by **August 4, 2022** (to accommodate the regular registration deadline of August 5, 2022).
 
-The final deadline for all contributions is **11:59p, July 28, 2022** (anywhere in the world).
+The final deadline for all contributions is **11:59pm, July 28, 2022** (anywhere in the world).
 
 ## FAQ
 
