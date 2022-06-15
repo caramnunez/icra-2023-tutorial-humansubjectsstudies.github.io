@@ -6,31 +6,32 @@ styles: true
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
-$featureBackgroundColour: #f9fafa !default;
+$featureBackgroundColour: #ffffff !default;
 $accentColour: #05bf85 !default;
 
 // Text colours
+$featureHeadingColour: #ffffff !default;
 $headingColour: #242e2b !default;
 $bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
+$linkColour: #4c71b7 !default;
+$hoverColour: #171c61 !default;
 $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Georgia, serif",
-  regular: 400,
-  bold: 700,
+  font-family: '"Noto Sans", sans-serif',
+  regular: 300,
+  bold: 600,
   italic: italic,
   cap-height: 0.75
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
-  regular: 400,
-  bold: 700,
+  font-family: '"Noto Sans", sans-serif',
+  regular: 300,
+  bold: 600,
   cap-height: 0.75
 ) !default;
 
