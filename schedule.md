@@ -1,26 +1,35 @@
 ---
-title: (Tentative) Schedule
+title: Schedule
 ---
 
 ## Session 1: Talks & Panel Discussion
 
-| **5 min**                	| **Greetings, introduction to workshop and logistics**                                                                                                                                                                   	|
-| **90 min**               	| **Invited Speakers**                                                                                                                                                                                                    	|
-| *12 min talk + 3min Q&A* 	| Conor Walsh, PhD, Harvard University uniting design, biomechanics, engineering, and business communities to build and deploy soft exosuits                                                                              	|
-| *12 min talk + 3min Q&A* 	| Marcia O’Malley, PhD, Rice University user-centric design and control of upper limb exoskeletons (incl. EMG-based intent inference on the MAHI EXO-II and combining FES with exoskeletons for paralyzed limb animation) 	|
-| *12 min talk + 3min Q&A* 	| Michelle Johnson, PhD, University of Pennsylvania development and deployment of therapeutic robots for diverse pathologies and populations                                                                              	|
-| *12 min talk + 3min Q&A* 	| Andrew McPherson, UC Berkeley building effective assistive devices and assistive tech organizations as an engineer, leader, and user                                                                                    	|
-| *12 min talk + 3min Q&A* 	| David Lin, MD, Massachusetts General Hospital unmet clinical needs and questions for upper extremity rehabilitation robotics in stroke                                                                                  	|
-| *12 min talk + 3min Q&A* 	| Kristin Nuckols, OTD, MOT, OTR/L, Co-Founder, Imago Rehab rehabilitation in the startup space                                                                                                                           	|
-| **10 min**               	| **Break**                                                                                                                                                                                                               	|
-| **30 min**               	| **Panel discussion with invited speakers**                                                                                                                                                                              	|
+09:30 KST - Greetings, introduction to workshop and logistics
 
-## Session 2: Posters, Demos, & Networking
+**09:35 KST - INVITED SPEAKERS** (12min talk + 3min Q&A)
 
-| **5 min**                                                   	| **Welcome back, introduction to lightning talk/poster logistics**         	|
-| **30 min**                                                  	| **Lightning Talks**                                                       	|
-| *2 min (90 sec pitch, 30 sec transition to next presenter)* 	| Estimated 15 poster presenters/demos (both open submission and solicited) 	|
-| **5 min**                                                   	| **Break, poster & demo set-up**                                           	|
-| **90 min**                                                  	| **Poster/demo session, general networking & discussion**                  	|
+09:35 KST - **Lucas Gerez**, PhD, Harvard University (on behalf of Conor Walsh), *Learning How to Move Limbs with Soft Wearable Robots*
 
+09:50 KST - **Nathan Dunkelberger**, Rice University (on behalf of Marcia O’Malley), *User-Centric Design and Control of Upper-Limb Exoskeletons*
 
+10:05 KST - **Michelle Johnson**, PhD, University of Pennsylvania, *Development and Deployment of Therapeutic Robots for Diverse Pathologies and Populations* (tentative)
+
+10:20 KST - **Andrew McPherson**, UC Berkeley, *Building Effective Assistive Devices and Organizations as an Engineer, Leader, and User*
+
+10:35 KST - **David Lin**, MD, Massachusetts General Hospital, *Clinical and Neurological Perspectives on Upper Extremity Rehabilitation Robotics in Stroke*
+
+10:50 KST - **Kristin Nuckols**, OTD, MOT, OTR/L, Co-Founder, Imago Rehab, *A Clinician's Perspective in the Rehab Robotics Startup Space*
+
+*11:05 KST - 10min break*
+
+**11:15 KST - PANEL DISCUSSION WITH ALL SPEAKERS** (30min)
+
+## Session 2: Posters & Networking
+
+13:00 KST - Welcome back, introduction to lightning talk/poster logistics
+
+**13:05 KST - LIGHTNING TALKS** (90s talk + 30s swap)
+											
+13:15 KST - 5min break, poster set-up
+												
+**13:20 KST - POSTER SESSION, GENERAL NETWORKING & DISCUSSION**
