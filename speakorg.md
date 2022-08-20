@@ -11,24 +11,10 @@ title: Speakers & Organizers
 | ![](/assets/images/lin_david_Attd_460.jpg)	| David Lin, MD, Massachusetts General Hospital - David J. Lin, MD is a critical care neurologist and neurorehabilitation specialist at Massachusetts General Hospital and an Assistant Professor of Neurology at Harvard Medical School. In his clinical practice, Dr. Lin cares for patients with acute neurologic injuries including stroke, brain hemorrhage, and traumatic brain and spinal cord injury in the MGH Neurosciences Critical Care Unit. He also directs the MGH NeuroRecovery clinic, the mission of which is to provide longitudinal, rehabilitation focused care for patients recovering from acute neurologic injuries. In his research program, Dr. Lin directs the Laboratory for Translational Recovery, an interdisciplinary group of clinicians, scientists, and engineers working together to improve neurorehabilitation for patients recovering from stroke by understanding systems neuroscience mechanisms of motor function and recovery. |
 | ![](/assets/images/Kristin Headshot.jpg)	| Kristin Nuckols, OTD, MOT, OTR/L, Co-Founder, Imago Rehab |
 
-## Speakers
-
-Conor Walsh, PhD, Harvard University (confirmed)
-
-Marcia O’Malley, PhD, Rice University (confirmed)
-
-Michelle Johnson, PhD, University of Pennsylvania (confirmed)
-
-Andrew McPherson, UC Berkeley (confirmed)
-
-David Lin, MD, Massachusetts General Hospital (confirmed)
-
-Kristin Nuckols, OTD, MOT, OTR/L, Co-Founder, Imago Rehab (confirmed)
-
 ## Organizers
 
-Laura A. Hallock, Postdoctoral Researcher, MEAM, GRASP Lab, University of Pennsylvania
+| ![](/assets/images/lhallock-1-scaled.jpeg)	| Laura A. Hallock, Postdoctoral Researcher, MEAM, GRASP Lab, University of Pennsylvania |
 
-Cara M. Nunez, Postdoctoral Researcher & Cornell University Faculty Fellow, Paulson School of Engineering and Applied Sciences, Harvard University
+| ![](/assets/images/Nunez_Cara_Headshot.JPG)	| Cara M. Nunez, Postdoctoral Researcher & Cornell University Faculty Fellow, Paulson School of Engineering and Applied Sciences, Harvard University |
  
-Robert D. Howe, Abbott and James Lawrence Professor of Engineering, Paulson School of Engineering and Applied Sciences, Harvard University
+| ![](/assets/images/Rob_Howe.png)	| Robert D. Howe, Abbott and James Lawrence Professor of Engineering, Paulson School of Engineering and Applied Sciences, Harvard University |
