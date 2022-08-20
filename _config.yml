@@ -25,6 +25,7 @@ domain: biorob-2022-workshop-upper-limb.github.io
 url: 'https://biorob-2022-workshop-upper-limb.github.io'
 baseurl: ''
 title: 'Closing the Loop on Upper-Limb Assistive Device Design, Sensing, Control, & Clinical Practice'
+layout: single
 classes: wide
 description: 'Welcome to the BioRob 2022 workshop on Closing the Loop on Upper-Limb Assistive Device Design, Sensing, Control, & Clinical Practice.'
 permalink: pretty
