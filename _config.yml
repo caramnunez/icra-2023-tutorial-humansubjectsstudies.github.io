@@ -39,24 +39,31 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+  layout: single
   classes: wide
 - title: About
   url: /about/
+  layout: single
   classes: wide
 - title: Call for Contributions
   url: /cfp/
+  layout: single
   classes: wide
 - title: Schedule
   url: /schedule/
+  layout: single
   classes: wide
 - title: Speakers & Organizers
   url: /speakorg/
+  layout: single
   classes: wide
 - title: Contact
   url: /contact/
+  layout: single
   classes: wide
 - title: Sponsors
   url: /sponsors/
+  layout: single
   classes: wide
 
 # Footer nav
