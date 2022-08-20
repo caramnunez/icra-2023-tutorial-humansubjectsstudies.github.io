@@ -5,6 +5,6 @@ feature_text: |
   ### BioRob 2022 Workshop 5 | August 21, 2022
 ---
 
-Welcome! We hope to see you at [BioRob 2022](http://biorob2022.org/index.php). Submit your workshop contribution [here](https://forms.gle/CvcxT9WST9bdDbU18) - **DEADLINES EXTENDED**!
+Welcome! We hope to see you at [BioRob 2022](http://biorob2022.org/index.php). Submit your questions for the workshop speakers [here](https://forms.gle/Z3GmfWtqFab5JZY58)!
 
 
