@@ -38,18 +38,25 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+  classes: wide
 - title: About
   url: /about/
+  classes: wide
 - title: Call for Contributions
   url: /cfp/
+  classes: wide
 - title: Schedule
   url: /schedule/
+  classes: wide
 - title: Speakers & Organizers
   url: /speakorg/
+  classes: wide
 - title: Contact
   url: /contact/
+  classes: wide
 - title: Sponsors
   url: /sponsors/
+  classes: wide
 
 # Footer nav
 navigation_footer:
