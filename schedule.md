@@ -26,10 +26,10 @@ title: Schedule
 
 ## Session 2: Posters & Networking
 
-13:00 KST - Welcome back, introduction to lightning talk/poster logistics
+13:30 KST - Welcome back, introduction to lightning talk/poster logistics
 
-**13:05 KST - LIGHTNING TALKS** (90s talk + 30s swap)
+**13:35 KST - LIGHTNING TALKS** (90s talk + 30s swap)
 											
-13:15 KST - 5min break, poster set-up
+13:45 KST - 5min break, poster set-up
 												
-**13:20 KST - POSTER SESSION, GENERAL NETWORKING & DISCUSSION**
+**13:50 KST - POSTER SESSION, GENERAL NETWORKING & DISCUSSION**
