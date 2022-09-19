@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-domain: biorob-2022-workshop-upper-limb.github.io
-url: 'https://biorob-2022-workshop-upper-limb.github.io'
+domain: icra-2023-tutorial-humansubjectsstudies.github.io
+url: 'https://icra-2023-tutorial-humansubjectsstudies.github.io'
 baseurl: ''
 title: 'Closing the Loop on Upper-Limb Assistive Device Design, Sensing, Control, & Clinical Practice'
 layout: single
