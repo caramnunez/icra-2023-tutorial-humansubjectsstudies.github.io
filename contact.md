@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-Please direct all inquiries to workshop organizers Laura A. Hallock and Cara M. Nunez at [biorob2022workshop5@gmail.com](mailto:biorob2022workshop5@gmail.com).
+Please direct all inquiries to workshop organizers Janelle P. Clark ([janelle_clark@uml.edu](mailto:janelle_clark@uml.edu)) and Cara M. Nunez at ([cnunez@seas.harvard.edu](mailto:cnunez@seas.harvard.edu)).

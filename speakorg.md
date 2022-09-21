@@ -29,7 +29,7 @@ Enter bio data here.
 
 ## Organizers
 
-![](/assets/images/jclark.jpeg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
+![](/assets/images/jclark.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, University of Massachusetts Lowell
 
 

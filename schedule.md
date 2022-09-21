@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-## Session 1: Talks & Panel Discussion
+## Session 1: Talks & Panel
 
 10 min - Greetings, Introduction to workshop and logistics
 
@@ -24,6 +24,8 @@ title: Schedule
 
 *15 min - Coffee Break and Networking*
 
-55 min - Subgroup workshopping of submitted study design plans
+## Session 2: Experiment Plan Discussion
+
+50 min - Subgroup workshopping of submitted study design plans
 
 *5 min - Thanks and close*
