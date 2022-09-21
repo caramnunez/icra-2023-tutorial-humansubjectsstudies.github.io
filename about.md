@@ -5,10 +5,10 @@ title: About this tutorial
 In order to effectively make robots for humans, it is necessary to incorporate study of human-robot interactions, human utilization and learning, and human feedback and impressions. However, many of the key experiment designs and analyses of human subjects testing are developed and taught within fields such as psychology and physical therapy, often absent in training in prominent departments of roboticists, such as computer science, mechanical engineering, or electrical engineering. *This creates a disconnect between the desired line of investigation and the training from standard research programs, leaving many of these topics to self-study.* The purpose of the content in this tutorial is to bridge this gap by *providing an overview and framework of human subjects experiments and an archive of quality resources for further learning and reference for novice roboticists*. The desired outcomes of this tutorial are to connect the next generation of roboticists with peers and prominent researchers in their field who are also working in human-subjects sub-fields, and provide them active practice in experiment design and tools for further study and reference. We also hope that this will lead to improvements in the review process, both for reviewers in understanding described protocols and analyses so they can provide adequate feedback and assessment and for authors in describing their work and understanding reviewer feedback.
 
 Our proposed format consists of two parts. The first is a series of presentations by invited speakers on key topics such as experiment design, experiment tasks, statistical tests, effective surveys for qualitative feedback, common analyses and metrics, and other important topics in conducting human subjects studies. During this part of the tutorial, our aim is to provide the background necessary for novices to be able to understand the basics of conducting human subjects studies and the steps they would need to take to design and run studies of their own. Specifically, we aim to answer the questions:
-   - Where do I start?
-   - What are the terms that researchers and reviewers use?
-   - How does these terms relate to my study design?
-   - Where can I go to learn more?
+- Where do I start?
+- What are the terms that researchers and reviewers use?
+- How does these terms relate to my study design?
+- Where can I go to learn more?
 
 These presentations will be live-streamed via Zoom and recorded to allow roboticists who may be unable to travel to the conference to participate and learn from the presentations. We will also have an online form accessible on our tutorial website to allow virtual participants to submit questions which the organizers can ask the speakers on their behalf.
 
