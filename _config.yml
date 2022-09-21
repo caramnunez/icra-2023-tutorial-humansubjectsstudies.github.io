@@ -49,16 +49,16 @@ navigation_header:
   url: /cfp/
   layout: single
   classes: wide
+- title: Resources
+  url: /resources/
+  layout: single
+  classes: wide
 - title: Schedule
   url: /schedule/
   layout: single
   classes: wide
 - title: Speakers & Organizers
   url: /speakorg/
-  layout: single
-  classes: wide
-- title: Resources
-  url: /resources/
   layout: single
   classes: wide
 - title: Contact

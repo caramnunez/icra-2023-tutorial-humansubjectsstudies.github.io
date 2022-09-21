@@ -2,7 +2,7 @@
 feature_image: /assets/images/banner.png
 feature_text: |
   ##  Fundamentals of Human Subjects Studies to Effectively Make Robots for Humans
-  ### ICRA 2023 Workshop 5 | August 21, 2022
+  ### ICRA 2023 Workshop 5 | May 29 - June 2, 2023
 ---
 
 Welcome! We hope to see you at [ICRA 2023](https://www.icra2023.org/). Submit your questions for the workshop speakers [here](https://forms.gle/sonFJwXGACoW6mYw9)!
