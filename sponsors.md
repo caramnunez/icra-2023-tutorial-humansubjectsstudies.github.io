@@ -2,4 +2,4 @@
 title: Sponsors
 ---
 
-If you're interested in sponsoring this workshop, please [reach out](../contact)!
+![](/assets/images/tch_logo.jpg){:height="347px" width="1280px" style="float: left; margin-right: 1em;"}
