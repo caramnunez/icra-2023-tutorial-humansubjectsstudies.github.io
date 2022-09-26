@@ -40,9 +40,7 @@ Participant experiment plans will be reviewed by at least 3 subject matter exper
 
 ## Virtual and Asynchronous Participation ##
 
-Presentations in the first session will be live-streamed via Zoom and recorded to allow roboticists who may be unable to travel to the conference to participate and learn from the presentations. Questions for the Q&A panels can be submitted during the live tutorial via an online form available on the [home](../index) page.
+Presentations in the first session will be live-streamed via Zoom and recorded and posted to the website to allow roboticists who may be unable to travel to the conference to participate and learn from the presentations. Questions for the Q&A panels can be submitted during the live tutorial via an online form available on the [home](../index) page.
 
-In the second session, in addition to in-person discussion groups around tables, virtual discussion will be formed via Zoom break-out rooms.
-
-To assist in asynchronous participation, participants who submitted experiment plans can opt to allow us to provide anonymous, annotated experiment plans for reference for those unable to submit a experiment plan for the tutorial.
+In the second session, in addition to in-person discussion groups around tables, virtual discussion will be formed via Zoom break-out rooms. To assist in asynchronous participation, participants who submitted experiment plans can opt to allow us to provide anonymous, annotated experiment plans for reference for those unable to submit a experiment plan for the tutorial.
 
