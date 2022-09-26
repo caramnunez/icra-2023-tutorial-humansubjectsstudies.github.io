@@ -35,7 +35,7 @@ Reviewer and discussion group leader volunteers will be accepted on a **rolling 
 
 ---
 
-<center> ## FAQ {#faq} </center>
+<center> ## FAQ  </center> {#faq}
 
 ### Who should submit?
 
