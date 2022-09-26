@@ -9,9 +9,11 @@ We hope to attract contributions from a wide range of engineering, computer scie
 In order to provide an opportunity to review feedback and workshop experiment plans, we solicit whitepaper contributions on human subjects experiments for review from three subject matter experts prior to the tutorial and to take part in small groups workshopping based on feedback during the second half of the tutorial. For those seeking guidance on submission format, see the FAQ section below.
 
 **Submission Link**
+
 Experiment Plans (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via [this form](https://forms.gle/D2C1Csum6EBhA1xeA).
 
 **Deadlines**
+
 Experiment Plan contributions will be accepted on a **rolling basis** until **February 28, 2023**. To enable potential contributors to plan travel to and registration for the ICRA 2023 conference, we guarantee responses by **March 31, 2023**.
 
 
@@ -24,9 +26,11 @@ In addition to the invited talks listed on the [program schedule](../schedule), 
 - for those unable to review or attend, we value your feedback on training resources for tutorial topics to add to our reference page
 
 **Submission Link**
+
 Please notify us if you would like to contribute to this tutorial as a reviewer, discussion leader, or recommend resources by filling out [our survey](https://forms.gle/HoaSrVq8DRVDhEL37).
 
 **Deadlines**
+
 Reviewer and discussion group leader volunteers will be accepted on a **rolling basis** until **February 28, 2023**.
 
 ## FAQ

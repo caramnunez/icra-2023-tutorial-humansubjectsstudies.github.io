@@ -4,9 +4,9 @@ title: Resources
 
 ## Statistical Methods and Interpretation
 
-**Parameteric Tets**
+**Parametric Tests**
 
-**Nonparameteric Tets**
+**Nonparametric Tests**
 
 
 
@@ -32,6 +32,6 @@ title: Resources
 
 **Standard Tasks and Performance Measures**
 
-**Time Series Anayses and Metrics**
+**Time Series Analyses and Metrics**
 
 **Psychophysical Methods**
