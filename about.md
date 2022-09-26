@@ -16,7 +16,7 @@ The desired outcomes of this tutorial are to:
 ## Tutorial Format ##
 Our proposed format consists of two sessions. 
 
-### Session 1: Presentations on the Fundamentals of Human Subjects Experiment Design ###
+**Session 1: Presentations on the Fundamentals of Human Subjects Experiment Design**
 
 The first session is a series of presentations by invited speakers on key topics such as:
 - experiment design
@@ -30,7 +30,7 @@ The aim of the first session is to provide the background necessary to be able t
 - How does these terms relate to my study design?
 - Where can I go to learn more?
 
-### Session 2: Workshopping Experiment Designs ###
+**Session 2: Workshopping Experiment Designs**
 
 The second part will be an experimental design workshop. Participants will be encouraged to:
 - submit a planned experiment design prior to the tutorial for review
