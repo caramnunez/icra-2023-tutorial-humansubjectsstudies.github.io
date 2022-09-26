@@ -35,7 +35,7 @@ Reviewer and discussion group leader volunteers will be accepted on a **rolling 
 
 ---
 
-<center> ## FAQ  </center> {#faq}
+## FAQ {#faq}
 
 ### Who should submit?
 
@@ -67,6 +67,6 @@ If you expect to deviate substantially from these recommendations and are concer
 
 ### What will be the workshop format?
 
-Those with accepted experiment designs will be put into small groups either around tables or in Zoom break-out rooms to discuss their feedback and collaborate with peers and subject matter experts, as outlined in the [program schedule](../schedule):
+Those with accepted experiment designs will be put into small groups either around tables or in Zoom break-out rooms to discuss their feedback and collaborate with peers and subject matter experts, as outlined in the [program schedule](../schedule).
 
 Exact details on presentation logistics, including in-person and remote presentation options, will be available soon.
