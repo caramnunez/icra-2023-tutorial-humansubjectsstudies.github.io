@@ -6,7 +6,7 @@ We hope to attract contributions from a wide range of engineering, computer scie
 
 ## Novice Researchers in Human Subjects Studies
 
-In order to provide an opportunity to review feedback and workshop experiment plans, we solicit whitepaper contributions on human subjects experiments for review from three subject matter experts prior to the tutorial and to take part in small groups workshopping based on feedback during the second half of the tutorial. For those seeking guidance on submission format, see the [FAQ](#faq-faq) section below.
+In order to provide an opportunity to review feedback and workshop experiment plans, we solicit whitepaper contributions on human subjects experiments for review from three subject matter experts prior to the tutorial and to take part in small groups workshopping based on feedback during the second half of the tutorial. For those seeking guidance on submission format, see the [FAQ](#faq) section below.
 
 **Submission Link**
 
@@ -35,7 +35,7 @@ Reviewer and discussion group leader volunteers will be accepted on a **rolling 
 
 ---
 
-## FAQ {#faq}
+<center> ## FAQ {#faq} </center>
 
 ### Who should submit?
 
