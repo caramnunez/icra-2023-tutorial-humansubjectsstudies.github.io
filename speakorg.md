@@ -8,7 +8,7 @@ title: Speakers & Organizers
 ![](/assets/images/aspiers.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Ad Spiers](https://www.imperial.ac.uk/people/a.spiers)**, PhD, Imperial College London
 
-Enter bio data here.
+Dr. Ad Spiers is a lecturer (assistant professor) in robotics and machine learning at Imperial College London, where he is also the head of the Manipulation and Touch Lab. Ad has been involved in numerous human subject studies related to haptic interfaces, visual impairment, upper limb prosthetics, human motion capture and robot teleoperation. Prior to working at Imperial, he created headaches for ethics boards at Yale University, The Max Planck Institute for Intelligent Systems, Bristol Robotics Lab / University of Bristol and the US Army. 
 
 ![](/assets/images/RoundLogoJPG.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[FirstName LastName](https://www.icra2023.org/)**, PhD, Univeristy Name
