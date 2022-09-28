@@ -20,7 +20,7 @@ Experiment Plan contributions will be accepted on a **rolling basis** until **Fe
 
 ## Subject Matter Experts in Human Subjects Studies
 
-In addition to the invited talks listed on the [program schedule](../schedule), we are looking for participation in three capacities::
+In addition to the invited talks listed on the [program schedule](../schedule), we are looking for participation in three capacities:
 - reviewers for participant experiment plans prior to the conference
 - leaders for discussion groups in Session 2 of the event, providing experiment plan feedback as well as be a resource for deeper discussion on the tutorial topics
 - for those unable to review or attend, we value your feedback on training resources for tutorial topics to add to our reference page
