@@ -1,5 +1,5 @@
 ---
-feature_image: /assets/images/banner.png
+feature_image: /assets/images/banner2.png
 feature_text: |
   ##  Fundamentals of Human Subjects Studies to Effectively Make Robots for Humans
   ### ICRA 2023 Tutorial | May 29 - June 2, 2023
