@@ -15,10 +15,10 @@ Dr. Ad Spiers is a lecturer (assistant professor) in robotics and machine learni
 
 Enter bio data here.
 
-![](/assets/images/RoundLogoJPG.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
+![](/assets/images/inwogu.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Ifeoma Nwogu](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/nwogu-ifeoma.detail.html)**, PhD, Univeristy at Buffalo
 
-Enter bio data here.
+Dr. Nwogu is an Associate Professor Computer Science and Engineering at the University at Buffalo, SUNY (UB), where she leads the Human Behavior Modeling Lab (HBML). Her group’s research focuses on developing computational models to study the unwritten rules of human social behaviors, both from the perspective of the agent exhibiting the behaviors and from that of an observer. Their end-to-end research involves extracting sensory features of behavior and developing time series models over them, to better analyze or synthesize the social cognitive processes being investigated. Such processes include a study of the extent of the expression of aggression in addicts, the role of interactional synchrony in different social constellations, deceit and hostility detection, etc. Ifeoma and her group also work on American Sign Language (ASL) translation and production. She received her Ph.D. from UB in 2009 and is a recipient of the NSF CAREER award (2018).
 
 
 ![](/assets/images/RoundLogoJPG.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}

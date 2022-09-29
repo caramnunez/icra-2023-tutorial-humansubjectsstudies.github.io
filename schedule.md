@@ -8,20 +8,20 @@ title: Schedule
 
 **155 min - INVITED SPEAKERS**
 
-30 min - **Ad Spiers**, PhD, Imperial College London , 
+30 min - **Ad Spiers**, PhD, Imperial College London, 
 *Experiment Design: Statistical Methods and Interpretation*
 
-30 min - **Speaker 2**, PhD, University Name , 
+30 min - **Speaker 2**, PhD, University Name, 
 *Experiment Design: Power, Balance, Randomization, & Task Repetitions*
 
 10 min - **Q&A Panel, All Speakers**
 
 *15 min - Break*
 
-30 min - **Ifeoma Nwogu**, PhD, University at Buffalo , 
+30 min - **Ifeoma Nwogu**, PhD, University at Buffalo, 
 *Experiment Design: IRB, Recruitment, and Surveys*
 
-30 min - **Speaker 4**, PhD, University Name , 
+30 min - **Speaker 4**, PhD, University Name, 
 *Quantitative Analyses: Time Series, Task Performance, & Psychophysics*
 
 10 min - **Q&A Panel, All Speakers**
