@@ -21,10 +21,10 @@ Enter bio data here.
 Dr. Nwogu is an Associate Professor Computer Science and Engineering at the University at Buffalo, SUNY (UB), where she leads the Human Behavior Modeling Lab (HBML). Her group’s research focuses on developing computational models to study the unwritten rules of human social behaviors, both from the perspective of the agent exhibiting the behaviors and from that of an observer. Their end-to-end research involves extracting sensory features of behavior and developing time series models over them, to better analyze or synthesize the social cognitive processes being investigated. Such processes include a study of the extent of the expression of aggression in addicts, the role of interactional synchrony in different social constellations, deceit and hostility detection, etc. Ifeoma and her group also work on American Sign Language (ASL) translation and production. She received her Ph.D. from UB in 2009 and is a recipient of the NSF CAREER award (2018).
 
 
-![](/assets/images/RoundLogoJPG.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
-**[FirstName LastName](https://www.icra2023.org/)**, PhD, Univeristy Name
+![](/assets/images/aokamura.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
+**[Allison Okamura](https://charm.stanford.edu/Main/AllisonOkamura/)**, PhD, Stanford Univeristy
 
-Enter bio data here.
+Allison Okamura is the Richard W. Weiland Professor of Engineering at Stanford University in the mechanical engineering department, with a courtesy appointment in computer science. She received the BS degree from the University of California at Berkeley, and the MS and PhD degrees from Stanford University. She is an IEEE Fellow and a deputy director of the Wu Tsai Stanford Neurosciences Institute. Her awards include the IEEE Engineering in Medicine and Biology Society Technical Achievement Award, IEEE Robotics and Automation Society Distinguished Service Award, and Duca Family University Fellow in Undergraduate Education. Her academic interests include haptics, teleoperation, virtual reality, medical robotics, soft robotics, rehabilitation, and education.
 
 
 ## Organizers

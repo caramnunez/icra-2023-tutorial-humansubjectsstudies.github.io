@@ -21,7 +21,7 @@ title: Schedule
 30 min - **Ifeoma Nwogu**, PhD, University at Buffalo, 
 *Experiment Design: IRB, Recruitment, and Surveys*
 
-30 min - **Speaker 4**, PhD, University Name, 
+30 min - **Allison Okamura**, PhD, Stanford University, 
 *Quantitative Analyses: Time Series, Task Performance, & Psychophysics*
 
 10 min - **Q&A Panel, All Speakers**
